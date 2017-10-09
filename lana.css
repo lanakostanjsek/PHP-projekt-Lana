@@ -1,0 +1,78 @@
+header{
+    font-size: 25px;
+    color: black;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    width: 100%;
+    padding-top: 5px;
+}
+
+body {
+    width: 100%;
+    font-size: 15px;
+    background-color: indianred;
+}
+
+#nav {
+    float: left;
+    width: 20%;
+    border: solid;
+}
+
+#nav ul {
+    list-style: none;
+    font-size: 20px;
+}
+
+footer{
+    clear: both;
+    font-size: 12px;
+    text-align: center;
+    color: black;
+    padding-bottom: 5px;
+    background-color: lightgoldenrodyellow;
+}
+
+#sadrzaj{
+    float: left;
+    width: 75%;
+    font-size: 15px;
+    margin-left: 2%;
+}
+
+form {
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+input, label, textarea, select {
+    width: 40%;
+    float: left;
+}
+
+input, select, textarea {
+    background-color: aquamarine;
+}
+
+table {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    margin-top: 10px;
+}
+table thead {
+    background-color: red;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+table tbody{
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
